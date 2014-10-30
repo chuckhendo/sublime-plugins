@@ -3,9 +3,12 @@
 	[
 		"/Users/chenderson/.nvm/v0.10.29/bin/"
 	],
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Seti (SL).tmTheme",
 	"create_window_at_startup": false,
-	"font_size": 9,
+	"font_face": "Source Code Pro",
+	"font_size": 15,
+	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -13,9 +16,15 @@
 		"Vintage",
 		"Emmet Css Snippets"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"word_wrap": false,
+	"bold_folder_labels": true,
 	"remember_open_files": false,
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"highlight_modified_tabs": true,
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
 }
