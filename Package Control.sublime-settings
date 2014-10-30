@@ -1,0 +1,51 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AngularJS",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"Bower",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSScomb",
+		"DashDoc",
+		"Delete Current File",
+		"EJS",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FindKeyConflicts",
+		"Git",
+		"Glue",
+		"Grunt",
+		"Gulp",
+		"Jade",
+		"Javascript Beautify",
+		"Jekyll",
+		"Liquid",
+		"LiveStyle",
+		"npm",
+		"PHP-Twig",
+		"Project Manager",
+		"Project Specific Syntax Settings",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
+		"Siteleaf Liquid Syntax",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-scss-lint",
+		"Sunnyvale Color Scheme",
+		"WrapCommand"
+	],
+	"repositories":
+	[
+		"https://github.com/andruhon/SublimeAllAutocomplete"
+	]
+}

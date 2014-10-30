@@ -1,0 +1,21 @@
+{
+	"additional_path_items":
+	[
+		"/Users/chenderson/.nvm/v0.10.29/bin/"
+	],
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"create_window_at_startup": false,
+	"font_size": 12,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Git",
+		"Vintage",
+		"Emmet Css Snippets"
+	],
+	"remember_open_files": false,
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
+}
