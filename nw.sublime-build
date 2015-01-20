@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "nw app",
+	"working_dir": "${project_path:${folder}}"
+}
