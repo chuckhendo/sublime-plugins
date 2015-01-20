@@ -1,0 +1,12 @@
+Color Highlighter/
+ColorPicker/
+Projects/
+SideBarEnhancements/
+*.last-run
+*.cache
+
+*.merged-ca-bundle
+
+*.system-ca-bundle
+
+*.user-ca-bundle

@@ -1,0 +1,13 @@
+[
+	{
+		"args": null,
+		"command": "swap_line_up"
+	},
+	{
+		"args":
+		{
+			"single_line": true
+		},
+		"command": "reindent"
+	}
+]
