@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+super+up"], "command": "run_macro_file", "args": {"file": "Packages/User/swap_line_up_reindent.sublime-macro"} },
+  { "keys": ["ctrl+super+down"], "command": "run_macro_file", "args": {"file": "Packages/User/swap_line_down_reindent.sublime-macro"} }
+]

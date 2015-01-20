@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "grunt dist-mac && open dist/*.app",
+	"working_dir": "${folder}"
+}

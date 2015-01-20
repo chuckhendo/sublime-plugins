@@ -1,13 +1,29 @@
 {
     // Full list of supported options and acceptable values can be found here:
+<<<<<<< HEAD
 
         // Whether to add a semicolon after the last value/mixin.
         // Set indent for code inside blocks, including media queries and nested rules.
         "block-indent": "    ",
+=======
+    // https://github.com/csscomb/csscomb.js/blob/master/doc/options.md
+    "config": {
+
+        // Whether to add a semicolon after the last value/mixin.
+        "always-semicolon": true,
+
+        // Set indent for code inside blocks, including media queries and nested rules.
+        "block-indent": "  ",
+>>>>>>> 27770d3a6887c124c3c5f5b40e668e0f2b33505e
 
         // Unify case of hexadecimal colors.
         "color-case": "lower",
 
+<<<<<<< HEAD
+=======
+        "rule-delimiter": "\n\n",
+
+>>>>>>> 27770d3a6887c124c3c5f5b40e668e0f2b33505e
         // Whether to expand hexadecimal colors or use shorthands.
         "color-shorthand": true,
 
@@ -36,14 +52,22 @@
         "space-after-opening-brace": "\n",
 
         // Set space after selector delimiter.
+<<<<<<< HEAD
         "space-after-selector-delimiter": " ",
+=======
+        "space-after-selector-delimiter": "\n",
+>>>>>>> 27770d3a6887c124c3c5f5b40e668e0f2b33505e
 
         // Set space before `}`.
         "space-before-closing-brace": "\n",
 
         // Set space before `:` in declarations.
         "space-before-colon": "",
+<<<<<<< HEAD
 
+=======
+        "rule-delimiter": "\n\n",
+>>>>>>> 27770d3a6887c124c3c5f5b40e668e0f2b33505e
         // Set space before combinator (for example, in selectors like `p > a`).
         "space-before-combinator": " ",
 
@@ -368,4 +392,7 @@
         ]
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 27770d3a6887c124c3c5f5b40e668e0f2b33505e

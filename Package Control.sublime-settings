@@ -10,11 +10,29 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+<<<<<<< HEAD
 		"AlignTab",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+=======
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AngularJS",
+		"AutoFileName",
+		"Better Close Window",
+		"Better CoffeeScript",
+		"Bower",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+>>>>>>> 27770d3a6887c124c3c5f5b40e668e0f2b33505e
 		"CSScomb",
+		"DashDoc",
+		"Delete Current File",
+		"EJS",
 		"Emmet",
+<<<<<<< HEAD
 		"Grunt",
 		"Gulp",
 		"JSON Reindent",
@@ -25,13 +43,62 @@
 		"Package Control",
 		"Pretty JSON",
 		"Project Port",
+=======
+		"Emmet Css Snippets",
+		"FindKeyConflicts",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Glue",
+		"Grunt",
+		"Gulp",
+		"Gutter Color",
+		"HTML-CSS-JS Prettify",
+		"ImageMagick",
+		"Indent XML",
+		"Jade",
+		"Javascript Beautify",
+		"Jekyll",
+		"Kulture",
+		"Liquid",
+		"LiveStyle",
+		"npm",
+		"OmniSharp",
+		"Origami",
+		"Package Control",
+		"PHP-Twig",
+		"Project Manager",
+>>>>>>> 27770d3a6887c124c3c5f5b40e668e0f2b33505e
 		"Razor",
+		"Sass",
+		"Schemr",
 		"SCSS",
+<<<<<<< HEAD
 		"SFTP",
 		"SideBarEnhancements",
 		"Simple Print Function",
 		"Sublime TFS",
 		"SublimeLinter",
 		"SublimeLinter-contrib-jslint"
+=======
+		"Seti_UI",
+		"SFTP",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
+		"Siteleaf Liquid Syntax",
+		"Stylus",
+		"Sublime TFS",
+		"Sunnyvale Color Scheme",
+		"Takana",
+		"Themr",
+		"W3CValidators",
+		"Web Inspector",
+		"WrapCommand",
+		"Zen Tabs"
+	],
+	"repositories":
+	[
+		"https://github.com/andruhon/SublimeAllAutocomplete"
+>>>>>>> 27770d3a6887c124c3c5f5b40e668e0f2b33505e
 	]
 }
