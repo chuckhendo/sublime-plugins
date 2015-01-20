@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -7,8 +15,10 @@
 		"All Autocomplete",
 		"AngularJS",
 		"AutoFileName",
+		"Better Close Window",
 		"Better CoffeeScript",
 		"Bower",
+		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
 		"CSScomb",
@@ -18,22 +28,31 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"FindKeyConflicts",
+		"Gist",
 		"Git",
+		"GitGutter",
 		"Glue",
 		"Grunt",
 		"Gulp",
+		"Gutter Color",
+		"HTML-CSS-JS Prettify",
+		"ImageMagick",
+		"Indent XML",
 		"Jade",
 		"Javascript Beautify",
 		"Jekyll",
+		"Kulture",
 		"Liquid",
 		"LiveStyle",
-		"Razor",
 		"npm",
+		"OmniSharp",
+		"Origami",
+		"Package Control",
 		"PHP-Twig",
 		"Project Manager",
-		"Project Specific Syntax Settings",
 		"Razor",
 		"Sass",
+		"Schemr",
 		"SCSS",
 		"Seti_UI",
 		"SFTP",
@@ -42,11 +61,13 @@
 		"Siteleaf Liquid Syntax",
 		"Stylus",
 		"Sublime TFS",
-		"SublimeLinter",
-		"SublimeLinter-coffeelint",
-		"SublimeLinter-contrib-scss-lint",
 		"Sunnyvale Color Scheme",
-		"WrapCommand"
+		"Takana",
+		"Themr",
+		"W3CValidators",
+		"Web Inspector",
+		"WrapCommand",
+		"Zen Tabs"
 	],
 	"repositories":
 	[
